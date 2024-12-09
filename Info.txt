@@ -3,3 +3,5 @@ la Escuela Profesional de Ingeniería Electrónica
 Universidad Nacional Del Altiplano, 
 diseñado e implementado por el Bachiller FREDY JESUS CALCINA QUISPE
 con código de estudiante: 1771161
+
+créditos a desarrolladores de Marlin
