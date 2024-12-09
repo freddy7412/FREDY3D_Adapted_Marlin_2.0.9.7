@@ -1,0 +1,5 @@
+Código Marlin adaptado a la impresora 3D desarrollado en 
+la Escuela Profesional de Ingeniería Electrónica
+Universidad Nacional Del Altiplano, 
+diseñado e implementado por el Bachiller FREDY JESUS CALCINA QUISPE
+con código de estudiante: 1771161
